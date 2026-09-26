@@ -3,6 +3,9 @@
 Application permettant à un freelance ou à une petite entreprise de créer des devis et des factures professionnelles,
 de suivre les paiements et de relancer les clients en retard. Projet n°7 du cahier des charges « 9 projets fictifs ».
 
+**🔗 Démo en ligne :** https://mes-apps.wuaze.com/facturo/ — **📲 Installer l’application** (mobile, tablette, ordinateur) : https://mes-apps.wuaze.com/facturo/#/installer
+
+
 ![Accueil](docs/accueil.png)
 ![Tableau de bord](docs/tableau-de-bord.png)
 ![Facture](docs/facture.png)
