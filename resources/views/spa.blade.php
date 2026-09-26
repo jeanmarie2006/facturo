@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <base href="{{ rtrim(url('/'), '/') }}/">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Facturo — Facturation pour freelances et PME</title>
+  <meta name="description" content="Mini-SaaS de facturation : clients, devis, factures PDF, suivi des paiements et relances (Laravel 12, React, DomPDF, Sanctum)." />
+  <meta name="theme-color" content="#1e3a8a" />
+  <link rel="icon" type="image/svg+xml" href="icon.svg" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <script type="module" crossorigin src="spa/assets/index-BoTJjVUp.js"></script>
+  <link rel="stylesheet" crossorigin href="spa/assets/index-CtjLUWJ4.css">
+</head>
+<body>
+  <div id="root"></div>
+</body>
+</html>
